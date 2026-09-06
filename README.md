@@ -1,5 +1,9 @@
 # Zen EliteStride Maison - Python Sales Analysis (pandas / Jupyter Notebook)
 
+---
+![Zen EliteStride Maison_SQL](https://github.com/Tusneld/Zen-EliteStride-Maison_Python/blob/c4f57f3e3ea538dc2ac6c1737ebe95076529614a/Zen%20EliteStride%20Maison%20-%20Shoe%20Sales%20Analysis%20(Python)/shoe_sales_dashboard.png)
+---
+
 Fourth stage of a five-part analytics pipeline built on the same shoe sales
 dataset: **Excel → Power BI → SQL → Python → Machine Learning**. This stage
 recreates the same KPIs and business questions in Python, in an annotated
